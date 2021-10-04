@@ -1,11 +1,17 @@
 # WeatherForecasting
 ![image](https://user-images.githubusercontent.com/77737060/135724446-98165388-b07b-437e-91e1-626ce4c1ea92.png)
 
+TECH-A-THON:
+This Weather forecasting project is made under TECH-A-THON , a Hackathon organised by ECE SOCIETY of BIT, Mesra
+
+THEME : ML/AI
+SUB-THEME : Weather Forecasting
+
 We have selected theme of weather forecasting and from this we aim to solve temperatures variation problem (different variation in temperatures due to global warming and other factors).This project solely focuses on how to determine temperature,humidity,wind-speed and along with it small weather description.
 
 How to use: 
 
-Our projects main aim was to make a user-friendly project.Here all temperature analysis will be done in just a click user just has to enter city and rest all is provided.It accesss current weather data for any location including over 200,000 cities ,collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations JSON, XML, and HTML formats
+Our  main aim was to make a user-friendly project.Here all temperature analysis will be done in just a click user just has to enter city and rest all is provided.It accesss current weather data for any location including over 200,000 cities ,collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations JSON, XML, and HTML formats
 
 Here is example on how result will be displayed. 
 
